@@ -1,0 +1,121 @@
+DistrictName,AvailableYear,CrimeRate
+Banglore,2023,689
+Banglore,2024,702
+Banglore,2025,716
+Banglore,2026,729
+Belagavi,2023,883
+Belagavi,2024,939
+Belagavi,2025,994
+Belagavi,2026,1050
+Ballari,2023,739.5
+Ballari,2024,781.5
+Ballari,2025,823.5
+Ballari,2026,865.5
+Bidar,2023,157.2
+Bidar,2024,98
+Bidar,2025,39.6
+Bidar,2026,40
+Vijayapura,2023,583.7
+Vijayapura,2024,621
+Vijayapura,2025,660.1
+Vijayapura,2026,698.3
+Hassan,2023,862
+Hassan,2024,897
+Hassan,2025,933
+Hassan,2026,968
+Haveri,2023,362
+Haveri,2024,377
+Haveri,2025,392
+Haveri,2026,407
+Shimoga,2023,911.4
+Shimoga,2024,907
+Shimoga,2025,903.2
+Shimoga,2026,899.1
+Udupi,2023,238
+Udupi,2024,221
+Udupi,2025,205
+Udupi,2026,189
+K.G.F.,2023,157.5
+K.G.F.,2024,166.5
+K.G.F.,2025,175.5
+K.G.F.,2026,184.5
+Yadgiri,2023,337.5
+Yadgiri,2024,342
+Yadgiri,2025,346.5
+Yadgiri,2026,351
+Chikkaballapura,2023,627
+Chikkaballapura,2024,700
+Chikkaballapura,2025,773
+Chikkaballapura,2026,847
+Chamarajnagar,2023,306
+Chamarajnagar,2024,305.5
+Chamarajnagar,2025,305
+Chamarajnagar,2026,304.5
+chikkamagaluru,2023,664.1
+chikkamagaluru,2024,724.2
+chikkamagaluru,2025,784.3
+chikkamagaluru,2026,844.4
+Chitradurga,2023,748.5
+Chitradurga,2024,810
+Chitradurga,2025,871.5
+Chitradurga,2026,933
+Mandya,2023,857.7
+Mandya,2024,900
+Mandya,2025,943.1
+Mandya,2026,985.8
+Dakshina Kannada,2023,328
+Dakshina Kannada,2024,361
+Dakshina Kannada,2025,394
+Dakshina Kannada,2026,427
+Kalaburgi,2023,223
+Kalaburgi,2024,143.2
+Kalaburgi,2025,62
+Kalaburgi,2026,50
+Dharwad ,2023,154.8
+Dharwad,2024,168
+Dharwad,2025,181.4
+Dharwad,2026,194.7
+Kodagu,2023,310
+Kodagu,2024,318.9
+Kodagu,2025,327
+Kodagu,2026,336
+Uttara Kannada,2023,328.7
+Uttara Kannada,2024,321.4
+Uttara Kannada,2025,314.1
+Uttara Kannada,2026,306.8
+Tumakuru,2023,1038.9
+Tumakuru,2024,1159
+Tumakuru,2025,1279
+Tumakuru,2026,1400.1
+Gadag,2023,190
+Gadag,2024,195.2
+Gadag,2025,200
+Gadag,2026,205
+Bagalkot,2023,377
+Bagalkot,2024,385
+Bagalkot,2025,394
+Bagalkot,2026,402
+Hubballi Dharwad City,2023,513
+Hubballi Dharwad City,2024,571
+Hubballi Dharwad City,2025,630
+Hubballi Dharwad City,2026,688
+Kolar,2023,352.3
+Kolar,2024,370.6
+Kolar,2025,388.9
+Kolar,2026,407.2
+Koppal,2023,281.6
+Koppal,2024,279.2
+Koppal,2025,276.8
+Koppal,2026,274.4
+Mysuru,2023,417.7
+Mysuru,2024,384
+Mysuru,2025,351.1
+Mysuru,2026,317.8
+Raichur,2023,621.8
+Raichur,2024,652.1
+Raichur,2025,682.4
+Raichur,2026,712.7
+Ramanagara,2023,709.6
+Ramanagara,2024,743.7
+Ramanagara,2025,777.8
+Ramanagara,2026,811.9
